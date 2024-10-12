@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders4Loops", "Ders4\Ders4Lo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders5LoopsWithStars", "Ders5\Ders5LoopsWithStars.csproj", "{F28DC272-9231-40A7-B121-00620C187862}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders6Arrays", "Ders6Diziler\Ders6Arrays.csproj", "{4B5276BA-1C57-454B-8D87-43D25304793A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F28DC272-9231-40A7-B121-00620C187862}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F28DC272-9231-40A7-B121-00620C187862}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F28DC272-9231-40A7-B121-00620C187862}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B5276BA-1C57-454B-8D87-43D25304793A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B5276BA-1C57-454B-8D87-43D25304793A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B5276BA-1C57-454B-8D87-43D25304793A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B5276BA-1C57-454B-8D87-43D25304793A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
