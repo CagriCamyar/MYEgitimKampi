@@ -1,4 +1,6 @@
-﻿namespace LoopsWithStars
+﻿using System;
+
+namespace LoopsWithStars
 {
     public class Ders5
     {
