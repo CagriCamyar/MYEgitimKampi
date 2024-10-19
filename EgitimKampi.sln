@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35312.102
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders1MainSubjects", "Ders1\Ders1MainSubjects.csproj", "{F0A30EE3-288A-46D5-9771-F0466F1925C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders01MainSubjects", "Ders1\Ders01MainSubjects.csproj", "{F0A30EE3-288A-46D5-9771-F0466F1925C8}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders2Variables", "Ders2\Ders2Variables.csproj", "{A41239DF-1AD8-4AE8-801C-46A0B4AE70D2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders02Variables", "Ders2\Ders02Variables.csproj", "{A41239DF-1AD8-4AE8-801C-46A0B4AE70D2}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders3MakingDecision", "Ders3\Ders3MakingDecision.csproj", "{8BDC8620-4491-431F-8978-61AA44A52DF5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders03MakingDecisions", "Ders3\Ders03MakingDecisions.csproj", "{8BDC8620-4491-431F-8978-61AA44A52DF5}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders4Loops", "Ders4\Ders4Loops.csproj", "{ACE9A5E1-5389-4BAA-8F2D-CFC3A254534F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders04Loops", "Ders4\Ders04Loops.csproj", "{ACE9A5E1-5389-4BAA-8F2D-CFC3A254534F}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders5LoopsWithStars", "Ders5\Ders5LoopsWithStars.csproj", "{F28DC272-9231-40A7-B121-00620C187862}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders05LoopsWithStars", "Ders5\Ders05LoopsWithStars.csproj", "{F28DC272-9231-40A7-B121-00620C187862}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders6Arrays", "Ders6Diziler\Ders6Arrays.csproj", "{4B5276BA-1C57-454B-8D87-43D25304793A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders06Arrays", "Ders6Diziler\Ders06Arrays.csproj", "{4B5276BA-1C57-454B-8D87-43D25304793A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders7Foreach", "Ders7Foreach\Ders7Foreach.csproj", "{596D054C-B20A-4BDD-80F0-EF76EB49A47D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders07Foreach", "Ders7Foreach\Ders07Foreach.csproj", "{596D054C-B20A-4BDD-80F0-EF76EB49A47D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders08Methods", "Ders8Methods\Ders08Methods.csproj", "{D48D98F6-244C-4D5C-B061-9761D3041127}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{596D054C-B20A-4BDD-80F0-EF76EB49A47D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{596D054C-B20A-4BDD-80F0-EF76EB49A47D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{596D054C-B20A-4BDD-80F0-EF76EB49A47D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D48D98F6-244C-4D5C-B061-9761D3041127}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D48D98F6-244C-4D5C-B061-9761D3041127}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D48D98F6-244C-4D5C-B061-9761D3041127}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D48D98F6-244C-4D5C-B061-9761D3041127}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

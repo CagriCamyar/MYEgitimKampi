@@ -1,6 +1,6 @@
 ﻿namespace Ders7Foreach
 {
-    public class Program
+    public class Ders7
     {
         static void Main(string[] args)
         {
