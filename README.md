@@ -25,7 +25,7 @@ Döngülerle birlikte bir işlemi birden fazla tekrarlamak yerine döngü ile is
 Beşinci dersimizde, döngüleri kullanarak geometrik şekiller çizdik ve döngüleri nasıl kullanmamız gerektiğini görmüş olduk. ✨
 
  # 🏷 DERS 6 : ARRAYS ! 
-Altıncı dersimizde, dizilerin içerisindeki elemanları döngüleri kullanarak tek tek nasıl elde edebileceğimizi öğrendik. 🚃 <br/>
+Altıncı dersimizde, dizilerin içerisindeki elemanları döngüleri kullanarak nasıl elde edebileceğimizi öğrendik. 🚃 <br/>
 
  # 🏷 DERS 7 : FOREACH ! 
 Yedinci dersimizde, dizilerin elemanlarına daha kolay bir şekilde ulaşabileceğimiz foreach döngüsünü öğrendik. <br/>
