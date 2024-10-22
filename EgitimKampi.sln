@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders06Arrays", "Ders6Dizile
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders07Foreach", "Ders7Foreach\Ders07Foreach.csproj", "{596D054C-B20A-4BDD-80F0-EF76EB49A47D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders08Methods", "Ders8Methods\Ders08Methods.csproj", "{D48D98F6-244C-4D5C-B061-9761D3041127}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ders08Methods", "Ders8Methods\Ders08Methods.csproj", "{D48D98F6-244C-4D5C-B061-9761D3041127}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ders09DatabaseProject", "Ders09DatabaseProject\Ders09DatabaseProject.csproj", "{EDF71338-30A0-45F7-B28E-52D7362BB969}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{D48D98F6-244C-4D5C-B061-9761D3041127}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D48D98F6-244C-4D5C-B061-9761D3041127}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D48D98F6-244C-4D5C-B061-9761D3041127}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EDF71338-30A0-45F7-B28E-52D7362BB969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EDF71338-30A0-45F7-B28E-52D7362BB969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EDF71338-30A0-45F7-B28E-52D7362BB969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EDF71338-30A0-45F7-B28E-52D7362BB969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
