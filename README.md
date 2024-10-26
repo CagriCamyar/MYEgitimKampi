@@ -35,11 +35,14 @@ Foreach döngüsü ile örnek bir sınav sistemi uygulaması gerçekleştirdik. 
 Sekizinci dersimizde, kodlarımızı sürekli tekrar etmemek adına metotları öğrendik. <br/>
 Metotlar sayesinde aynı kod bloğunu birden fazla kullanmamız gereken durumlarda sadece metodu çağırarak ulaşabiliyoruz. <br/>
 Aynı zamanda bir değişiklik yapmamız gerektiğinde bir kez düzenleme yapmamız yeterli olacaktır.
-Metotlar metot isminin sonuna parantez açıp kapatılarak belirtilir. (Ex. Write()). Metotlar parametresiz veya parametreli olabilir. 📝
+Metotlar metot isminin sonuna parantez açıp kapatılarak belirtilir. (Ex. Write()). Metotlar parametresiz veya parametreli olabilir. 👨🏼‍🔬
 
  # 🏷 DERS 9 : DATABASE PROJECT ! 
 Dokuzuncu dersimizde, Mssql üzerinde EgitimKampiDb adlı veritabanı oluşturduk. Bu veritabanına ürünleri, kategorileri ve sipariş bilgilerini tutacak tablolar ekledik.<br/>
 Veritabanımızı oluşturduktan sonra C# ile veritabanımızı ilişkilendirmek için gerekli kodlarımızı yazıp veritabanına eklediğimiz ürünleri ekranımızda görebildik. 🧮
+
+ # 🏷 DERS 10 : DATABASE CRUD ! 
+Onuncu dersimizde, C# üzerinde SQL sorgularımızı yazaarak CRUD operasyonlarını (Create, Read, Update, Delete) nasıl çalıştıracağımızı önceki derste oluşturduğumuz veritabanımız üzerinde işlemler gerçekleştirerek görmüş olduk. 📝
 
 
 
