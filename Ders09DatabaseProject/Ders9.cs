@@ -3,7 +3,7 @@ using System.Data;
 
 namespace Ders09DatabaseProject
 {
-    public class Program
+    public class Ders9
     {
         static void Main(string[] args)
         {
